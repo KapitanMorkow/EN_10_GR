@@ -341,27 +341,97 @@ function load(){
 }
 
 // EN songs
+const en_2010_gr_icon = [
+	'pop'
+];
 
+const EN_2010_GR_PACK_1 = 1;
 
+let en_2010_gr = [
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Chainsmokers',
+		song : "Closer"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'LMFAO',
+		song : "Party Rock Anthem"
+	},			
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'One Direction',
+		song : "Little Things"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'One Direction',
+		song : "One Way or Another (ft. Teenage Kicks)"
+	},		
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'One Direction',
+		song : "Story of My Life"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Twenty One Pilots',
+		song : "Ode To Sleep"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Twenty One Pilots',
+		song : "Stressed Out"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Twenty One Pilots',
+		song : "Heathens"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'OneRepublic',
+		song : "If I Loose Myself"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'OneRepublic',
+		song : "Counting Stars"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'OneRepublic',
+		song : "Something I Need"
+	},		
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Imagine Dragons',
+		song : "Believer"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Imagine Dragons',
+		song : "Demons"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Imagine Dragons',
+		song : "Thunder"
+	}
+];
+
+let en_2010_gr_1 =	en_2010_gr.filter(item => item.pack == 1);
 
 let music = [
 	{
-		arr: en_2000_m,
+		arr: en_2010_gr,
 		lang: 'en',
-		year: '2000',
-		type: 'm',
+		year: '2010',
+		type: 'gr',
 		packs: [
 				{
-					arr: en_2000_m_1,
-					name: 'EN 2000s Male: Pop',
-				},
-				{
-					arr: en_2000_m_2,
-					name: 'EN 2000s Male: Dj',
-				},
-				{
-					arr: en_2000_m_3,
-					name: 'EN 2000s Male: Rap',
+					arr: en_2010_gr_1,
+					name: 'EN 2010s Groups: Pop',
 				}
 			]
 	}
@@ -688,14 +758,14 @@ let generateImgPath;
 
 function setup(){
 	lang = 'en';
-	year = '2000';
-	artist_type = 'm';
+	year = '2010';
+	artist_type = 'gr';
 	back = back_to_packages;
 	modeToggle = toggleArtist;
 	setMedia = setAudio;
 	rightAnswer = rightAnswer_RU;
 	count_time();
-	package_names = en_2000_gr_icon;
+	package_names = en_2010_gr_icon;
 	show_packages(package_names.length);
 	document.body.scrollTop = document.documentElement.scrollTop = 0;
 }
