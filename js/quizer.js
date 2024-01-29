@@ -417,6 +417,24 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : 'Imagine Dragons',
 		song : "Thunder"
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Bring Me the Horizon',
+		song : "Can You Feel My Heart",
+		year : 2013
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Bring Me the Horizon',
+		song : "Kingslayer (ft Babymetal)",
+		year : 2020
+	},	
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Bring Me the Horizon',
+		song : "Throne",
+		year : 2015
 	}
 ];
 
