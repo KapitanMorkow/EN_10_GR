@@ -435,6 +435,24 @@ let en_2010_gr = [
 		group : 'Bring Me the Horizon',
 		song : "Throne",
 		year : 2015
+	},
+	{
+		pack : EN_2000_GR_PACK_1,
+		group : "Theory of a Deadman",
+		song : 'Rx (Medicate)',
+		year : 2017
+	},
+	{
+		pack : EN_2000_GR_PACK_1,
+		group : "Theory of a Deadman",
+		song : 'Angel',
+		year : 2015
+	},
+	{
+		pack : EN_2000_GR_PACK_1,
+		group : "Theory of a Deadman",
+		song : 'Lowlife',
+		year : 2011
 	}
 ];
 
