@@ -333,21 +333,24 @@ function load(){
 
 // EN songs
 const en_2010_gr_icon = [
-	'pop'
+	'pop',
+	'rock'
 ];
 
 const EN_2010_GR_PACK_1 = 1;
+const EN_2010_GR_PACK_2 = 2;
 
 let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'Chainsmokers',
-		song : "Closer"
+		song : "Closer",
+		ignore : true
 	},	
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'LMFAO',
-		song : "Party Rock Anthem"
+		song : "Party Rock Anthem (ft Lauren Bennett & GoonRock) (2011)"
 	},			
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -365,17 +368,17 @@ let en_2010_gr = [
 		song : "Story of My Life"
 	},	
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : 'Twenty One Pilots',
 		song : "Ode To Sleep"
 	},	
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : 'Twenty One Pilots',
 		song : "Stressed Out"
 	},	
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : 'Twenty One Pilots',
 		song : "Heathens"
 	},	
@@ -410,44 +413,100 @@ let en_2010_gr = [
 		song : "Thunder"
 	},	
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
 		song : "Can You Feel My Heart",
 		year : 2013
 	},	
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
 		song : "Kingslayer (ft Babymetal)",
 		year : 2020
 	},	
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
 		song : "Throne",
 		year : 2015
 	},
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : "Theory of a Deadman",
 		song : 'Rx (Medicate)',
 		year : 2017
 	},
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : "Theory of a Deadman",
 		song : 'Angel',
 		year : 2015
 	},
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_2,
 		group : "Theory of a Deadman",
 		song : 'Lowlife',
 		year : 2011
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'LMFAO',
+		song : "Sexy and I Know It (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'LMFAO',
+		song : "Sorry for Party Rocking (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Jonas Brothers',
+		song : "Sucker (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Jonas Brothers',
+		song : "Only Human (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Jonas Brothers',
+		song : "Cool (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Bastille',
+		song : "Pompeii (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Bastille',
+		song : "Good Grief (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Bastille',
+		song : "Flaws (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'DNCE',
+		song : "Cake by the Ocean (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'DNCE',
+		song : "Toothbrush (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'DNCE',
+		song : "Kissing Strangers (ft Nicki Minaj) (2017)"
 	}
 ];
 
 let en_2010_gr_1 =	en_2010_gr.filter(item => item.pack == 1);
+let en_2010_gr_2 =	en_2010_gr.filter(item => item.pack == 2);
 
 let music = [
 	{
@@ -791,7 +850,7 @@ function setup(){
 }
 
 let pack_num;
-let year_url = 'https://sunquiz.netlify.app/2010';
+let year_url = 'https://sunquiz.netlify.app/1990';
 
 function useUrlParam() {
 	var url_string = window.location.href; 
