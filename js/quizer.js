@@ -585,11 +585,6 @@ let en_2010_gr = [
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
-		group : 'Pendulum',
-		song : "Witchcraft (2010)"
-	},
-	{
-		pack : EN_2010_GR_PACK_2,
 		group : 'Panic! at the Disco',
 		song : "High Hopes (2018)"
 	},
