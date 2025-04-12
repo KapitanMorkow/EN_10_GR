@@ -502,6 +502,166 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : 'DNCE',
 		song : "Kissing Strangers (ft Nicki Minaj) (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Fall Out Boy',
+		song : "Centuries (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Fall Out Boy',
+		song : "My Songs Know What You Did in the Dark (Light Em Up) (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Fall Out Boy',
+		song : "Immortals (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Arctic Monkeys',
+		song : "Do I Wanna Know? (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Arctic Monkeys',
+		song : "Why'd You Only Call Me When You're High? (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Arctic Monkeys',
+		song : "R U Mine? (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Asking Alexandria',
+		song : "Moving On (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Asking Alexandria',
+		song : "I Won't Give In (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Asking Alexandria',
+		song : "Into the Fire (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Black Keys',
+		song : "Lonely Boy (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Black Keys',
+		song : "Gold on the Ceiling (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Black Keys',
+		song : "Tighten Up (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Papa Roach',
+		song : "Help (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Papa Roach',
+		song : "Born for Greatness (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Pendulum',
+		song : "Watercolour (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Pendulum',
+		song : "Witchcraft (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Pendulum',
+		song : "Witchcraft (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Panic! at the Disco',
+		song : "High Hopes (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Panic! at the Disco',
+		song : "This Is Gospel (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Panic! at the Disco',
+		song : "Hallelujah (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Maroon 5',
+		song : "Moves Like Jagger (ft Christina Aguilera) (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Maroon 5',
+		song : "Girls Like You (ft Cardi B) (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'Maroon 5',
+		song : "Sugar (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Hollywood Undead',
+		song : "Day of the Dead (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Hollywood Undead',
+		song : "We Are (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Hollywood Undead',
+		song : "Hear Me Now (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Godsmack',
+		song : "Bulletproof (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Godsmack',
+		song : "When Legends Rise (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Godsmack',
+		song : "Cryin' Like a Bitch (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : '5 Seconds of Summer',
+		song : "Youngblood (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : '5 Seconds of Summer',
+		song : "She Looks So Perfect (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : '5 Seconds of Summer',
+		song : "Amnesia (2014)"
 	}
 ];
 
