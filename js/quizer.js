@@ -334,11 +334,13 @@ function load(){
 // EN songs
 const en_2010_gr_icon = [
 	'pop',
-	'rock'
+	'rock',
+	'k-pop'
 ];
 
 const EN_2010_GR_PACK_1 = 1;
 const EN_2010_GR_PACK_2 = 2;
+const EN_2010_GR_PACK_3 = 3;
 
 let en_2010_gr = [
 	{
@@ -657,11 +659,117 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : '5 Seconds of Summer',
 		song : "Amnesia (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'BLACKPINK',
+		song : "Ddu-Du Ddu-Du (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'BLACKPINK',
+		song : "As If It's Your Last (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'BLACKPINK',
+		song : "Kill This Love (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'BTS',
+		song : "Run (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'BTS',
+		song : "DNA (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'BTS',
+		song : "Fake Love (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'Twice',
+		song : "Fancy (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'Twice',
+		song : "Yes or Yes (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'Twice',
+		song : "TT (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'EXO',
+		song : "Ko Ko Bop (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'EXO',
+		song : "Monster (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'EXO',
+		song : "Call Me Baby (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'Stray Kids',
+		song : "Miroh (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'Stray Kids',
+		song : "God's Menu (2020)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'Stray Kids',
+		song : "Back Door (2020)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'SEVENTEEN',
+		song : "Clap (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'SEVENTEEN',
+		song : "Don't Wanna Cry (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'SEVENTEEN',
+		song : "Very Nice (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'ATEEZ',
+		song : "Wonderland (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'ATEEZ',
+		song : "Answer (2020)"
+	},
+	{
+		pack : EN_2010_GR_PACK_3,
+		group : 'ATEEZ',
+		song : "Wave (2019)"
 	}
 ];
 
 let en_2010_gr_1 =	en_2010_gr.filter(item => item.pack == 1);
 let en_2010_gr_2 =	en_2010_gr.filter(item => item.pack == 2);
+let en_2010_gr_3 =	en_2010_gr.filter(item => item.pack == 3);
 
 let music = [
 	{
@@ -673,6 +781,14 @@ let music = [
 				{
 					arr: en_2010_gr_1,
 					name: 'EN 2010s Groups: Pop',
+				},
+				{
+					arr: en_2010_gr_2,
+					name: 'EN 2010s Groups: Rock',
+				},
+				{
+					arr: en_2010_gr_3,
+					name: 'EN 2010s Groups: K-Pop',
 				}
 			]
 	}
