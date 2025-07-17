@@ -764,6 +764,21 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_3,
 		group : 'ATEEZ',
 		song : "Wave (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'AJR',
+		song : "Weak (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'AJR',
+		song : "Burn the House Down (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : 'AJR',
+		song : "I'm Ready (2013)"
 	}
 ];
 
