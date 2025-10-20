@@ -1136,7 +1136,7 @@ function setup(){
 }
 
 let pack_num;
-let year_url = 'https://sunquiz.netlify.app/1990';
+let year_url = 'https://sunquiz.netlify.app/2010';
 
 function useUrlParam() {
 	var url_string = window.location.href; 
