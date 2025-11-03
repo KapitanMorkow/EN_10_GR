@@ -779,6 +779,16 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : 'AJR',
 		song : "I'm Ready (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : '3OH!3',
+		song : "Double Vision (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : '3OH!3',
+		song : "Touchin On My (2011)"
 	}
 ];
 
