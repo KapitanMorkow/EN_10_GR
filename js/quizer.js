@@ -874,6 +874,166 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_2,
 		group : 'Pendulum',
 		song : "Encoder (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Blondie',
+		song : "Fun (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Blue October',
+		song : "I Hope You're Happy (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Cigarettes After Sex',
+		song : "Apocalypse (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Deftones',
+		song : "Rosemary (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Disturbed',
+		song : "The Sound of Silence (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Electric Callboy',
+		song : "2 Fat 2 Furious (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Five Finger Death Punch',
+		song : "Far from Home (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Foo Fighters',
+		song : "Walk (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Franz Ferdinand',
+		song : "Love Illuminator (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Good Charlotte',
+		song : "Awful Things (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Good Charlotte',
+		song : "Cardiology (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'I Prevail',
+		song : "Gasoline (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Kasabian',
+		song : "Re-Wired (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Kings of Leon',
+		song : "Waste a Moment (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'KoRn',
+		song : "Hater (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'KoRn',
+		song : "Rotting In Vain (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'My Chemical Romance',
+		song : "Na Na Na (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'My Chemical Romance',
+		song : "Sing (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'My Darkest Days',
+		song : "Still Worth Fighting For (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'OOMPH!',
+		song : "Kein Liebeslied (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Portugal. The Man',
+		song : "Feel It Still (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Portugal. The Man',
+		song : "Live in the Moment (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Powerwolf',
+		song : "Venom of Venus (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Pretty Reckless',
+		song : "Heaven Knows (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Pretty Reckless',
+		song : "Just Tonight (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Stone Sour',
+		song : "Absolute Zero (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Three Days Grace',
+		song : "Give In to Me (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Three Days Grace',
+		song : "Painkiller (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Volbeat',
+		song : "Let It Burn (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Walk the Moon',
+		song : "Shut Up and Dance (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Within Temptation',
+		song : "Iron (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'X Ambassadors',
+		song : "Renegades (2015)"
 	}
 ];
 
