@@ -827,7 +827,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'American Authors',
-		song : "Best Day of My Life (2013)"
+		song : "Best Day of My Life (2013)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
