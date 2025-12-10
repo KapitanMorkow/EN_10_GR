@@ -785,7 +785,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'AJR',
-		song : "I'm Ready (2013)"
+		song : "I'm Ready (2013)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -813,14 +814,15 @@ let en_2010_gr = [
 		song : "Youngblood (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'AJR',
 		song : "Let the Games Begin (2015)"
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'AJR',
-		song : "Weak (2016)"
+		song : "Weak (2016)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
