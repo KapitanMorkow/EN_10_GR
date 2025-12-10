@@ -417,38 +417,37 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
-		song : "Can You Feel My Heart",
-		year : 2013
+		song : "Can You Feel My Heart (2013)"
 	},	
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
 		song : "Kingslayer (ft Babymetal)",
-		year : 2020
+		year : 2020,
+		ignore : true
 	},	
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
-		song : "Throne",
-		year : 2015
+		song : "Throne (2015)"
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : "Theory of a Deadman",
-		song : 'Rx (Medicate)',
-		year : 2017
+		song : 'Rx (Medicate) (2017)',
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : "Theory of a Deadman",
-		song : 'Angel',
-		year : 2015
+		song : 'Angel (2015)',
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : "Theory of a Deadman",
-		song : 'Lowlife',
-		year : 2011
+		song : 'Lowlife (2011)',
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -528,7 +527,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Arctic Monkeys',
-		song : "Why'd You Only Call Me When You're High? (2013)"
+		song : "Why'd You Only Call Me When You're High? (2013)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -538,7 +538,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Asking Alexandria',
-		song : "Moving On (2014)"
+		song : "Moving On (2014)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -548,7 +549,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Asking Alexandria',
-		song : "Into the Fire (2017)"
+		song : "Into the Fire (2017)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -558,12 +560,14 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Black Keys',
-		song : "Gold on the Ceiling (2012)"
+		song : "Gold on the Ceiling (2012)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Black Keys',
-		song : "Tighten Up (2010)"
+		song : "Tighten Up (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -578,7 +582,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Pendulum',
-		song : "Watercolour (2010)"
+		song : "Watercolour (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -854,6 +859,21 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_2,
 		group : 'Blind Channel',
 		song : "Wolfpack  (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : "Theory of a Deadman",
+		song : 'Out of My Head (2011)'
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Pendulum',
+		song : "Crush (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Pendulum',
+		song : "Encoder (2010)"
 	}
 ];
 
