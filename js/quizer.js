@@ -789,6 +789,71 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : '3OH!3',
 		song : "Touchin On My (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : '3 Doors Down',
+		song : "Heaven (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : '5 Seconds of Summer',
+		song : "Teeth (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : '5 Seconds of Summer',
+		song : "Youngblood (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'AJR',
+		song : "Let the Games Begin (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'AJR',
+		song : "Weak (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'American Authors',
+		song : "Best Day of My Life (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Amorphis',
+		song : "The Bee (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Avenged Sevenfold',
+		song : "Hail to the King (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'AWOLNATION',
+		song : "Miracle Man (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'AWOLNATION',
+		song : "Sail (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Billy Talent',
+		song : "Cure for the Enemy  (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Black Veil Brides',
+		song : "In the End  (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Blind Channel',
+		song : "Wolfpack  (2018)"
 	}
 ];
 
