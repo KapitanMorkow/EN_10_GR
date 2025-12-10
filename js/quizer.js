@@ -335,12 +335,14 @@ function load(){
 const en_2010_gr_icon = [
 	'pop',
 	'rock',
-	'k-pop'
+	'k-pop',
+	'rock_2'
 ];
 
 const EN_2010_GR_PACK_1 = 1;
 const EN_2010_GR_PACK_2 = 2;
 const EN_2010_GR_PACK_3 = 3;
+const EN_2010_GR_PACK_4 = 4;
 
 let en_2010_gr = [
 	{
@@ -415,7 +417,7 @@ let en_2010_gr = [
 		song : "Thunder"
 	},	
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Bring Me the Horizon',
 		song : "Can You Feel My Heart (2013)"
 	},	
@@ -427,7 +429,7 @@ let en_2010_gr = [
 		ignore : true
 	},	
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Bring Me the Horizon',
 		song : "Throne (2015)"
 	},
@@ -542,7 +544,7 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Asking Alexandria',
 		song : "I Won't Give In (2015)"
 	},
@@ -570,12 +572,12 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Papa Roach',
 		song : "Help (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Papa Roach',
 		song : "Born for Greatness (2017)"
 	},
@@ -586,7 +588,7 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Pendulum',
 		song : "Witchcraft (2010)"
 	},
@@ -621,32 +623,32 @@ let en_2010_gr = [
 		song : "Sugar (2015)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Hollywood Undead',
 		song : "Day of the Dead (2014)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Hollywood Undead',
 		song : "We Are (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Hollywood Undead',
 		song : "Hear Me Now (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Godsmack',
 		song : "Bulletproof (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Godsmack',
 		song : "When Legends Rise (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Godsmack',
 		song : "Cryin' Like a Bitch (2010)"
 	},
@@ -826,12 +828,12 @@ let en_2010_gr = [
 		song : "Best Day of My Life (2013)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Amorphis',
 		song : "The Bee (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Avenged Sevenfold',
 		song : "Hail to the King (2013)"
 	},
@@ -851,12 +853,12 @@ let en_2010_gr = [
 		song : "Cure for the Enemy  (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Black Veil Brides',
 		song : "In the End  (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Blind Channel',
 		song : "Wolfpack  (2018)"
 	},
@@ -866,12 +868,12 @@ let en_2010_gr = [
 		song : 'Out of My Head (2011)'
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Pendulum',
 		song : "Crush (2011)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Pendulum',
 		song : "Encoder (2010)"
 	},
@@ -881,7 +883,7 @@ let en_2010_gr = [
 		song : "Fun (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Blue October',
 		song : "I Hope You're Happy (2018)"
 	},
@@ -896,7 +898,7 @@ let en_2010_gr = [
 		song : "Rosemary (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Disturbed',
 		song : "The Sound of Silence (2015)"
 	},
@@ -906,12 +908,12 @@ let en_2010_gr = [
 		song : "2 Fat 2 Furious (2015)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Five Finger Death Punch',
 		song : "Far from Home (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Foo Fighters',
 		song : "Walk (2011)"
 	},
@@ -931,7 +933,7 @@ let en_2010_gr = [
 		song : "Cardiology (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'I Prevail',
 		song : "Gasoline (2019)"
 	},
@@ -946,12 +948,12 @@ let en_2010_gr = [
 		song : "Waste a Moment (2016)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'KoRn',
 		song : "Hater (2014)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'KoRn',
 		song : "Rotting In Vain (2016)"
 	},
@@ -986,37 +988,37 @@ let en_2010_gr = [
 		song : "Live in the Moment (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Powerwolf',
 		song : "Venom of Venus (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Pretty Reckless',
 		song : "Heaven Knows (2013)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Pretty Reckless',
 		song : "Just Tonight (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Stone Sour',
 		song : "Absolute Zero (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Three Days Grace',
 		song : "Give In to Me (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Three Days Grace',
 		song : "Painkiller (2014)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Volbeat',
 		song : "Let It Burn (2016)"
 	},
@@ -1026,7 +1028,7 @@ let en_2010_gr = [
 		song : "Shut Up and Dance (2014)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Within Temptation',
 		song : "Iron (2011)"
 	},
@@ -1040,6 +1042,7 @@ let en_2010_gr = [
 let en_2010_gr_1 =	en_2010_gr.filter(item => item.pack == 1);
 let en_2010_gr_2 =	en_2010_gr.filter(item => item.pack == 2);
 let en_2010_gr_3 =	en_2010_gr.filter(item => item.pack == 3);
+let en_2010_gr_4 =	en_2010_gr.filter(item => item.pack == 4);
 
 let music = [
 	{
@@ -1049,12 +1052,16 @@ let music = [
 		type: 'gr',
 		packs: [
 				{
-					arr: en_2010_gr_1,
-					name: 'EN 2010s Groups: Pop',
+					arr: en_2010_gr_2,
+					name: 'EN 2010s Groups: Soft Rock',
 				},
 				{
-					arr: en_2010_gr_2,
-					name: 'EN 2010s Groups: Rock',
+					arr: en_2010_gr_4,
+					name: 'EN 2010s Groups: Hard Rock',
+				},
+				{
+					arr: en_2010_gr_1,
+					name: 'EN 2010s Groups: Pop',
 				},
 				{
 					arr: en_2010_gr_3,
