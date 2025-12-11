@@ -655,12 +655,14 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : '5 Seconds of Summer',
-		song : "Youngblood (2018)"
+		song : "Youngblood (2018)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : '5 Seconds of Summer',
-		song : "She Looks So Perfect (2015)"
+		song : "She Looks So Perfect (2015)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -804,12 +806,12 @@ let en_2010_gr = [
 		song : "Heaven (2011)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : '5 Seconds of Summer',
 		song : "Teeth (2019)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : '5 Seconds of Summer',
 		song : "Youngblood (2018)"
 	},
@@ -1039,6 +1041,11 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_2,
 		group : 'X Ambassadors',
 		song : "Renegades (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_2,
+		group : 'Plain White T's',
+		song : "Map of the World (2010)"
 	}
 ];
 
