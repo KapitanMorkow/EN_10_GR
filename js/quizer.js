@@ -1044,8 +1044,13 @@ let en_2010_gr = [
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
-		group : 'Plain White T's',
+		group : "Plain White T's",
 		song : "Map of the World (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Two Door Cinema Club",
+		song : "Undercover Martyn (2010)"
 	}
 ];
 
