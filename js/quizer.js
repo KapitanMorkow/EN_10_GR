@@ -336,20 +336,21 @@ const en_2010_gr_icon = [
 	'pop',
 	'rock',
 	'k-pop',
-	'rock_2'
+	'rock_2',
+	'pop_2'
 ];
 
 const EN_2010_GR_PACK_1 = 1;
 const EN_2010_GR_PACK_2 = 2;
 const EN_2010_GR_PACK_3 = 3;
 const EN_2010_GR_PACK_4 = 4;
+const EN_2010_GR_PACK_5 = 5;
 
 let en_2010_gr = [
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_5,
 		group : 'Chainsmokers',
-		song : "Closer",
-		ignore : true
+		song : "Closer (ft Halsey)"
 	},	
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -492,19 +493,21 @@ let en_2010_gr = [
 		song : "Flaws (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_5,
 		group : 'DNCE',
 		song : "Cake by the Ocean (2015)"
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'DNCE',
-		song : "Toothbrush (2016)"
+		song : "Toothbrush (2016)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'DNCE',
-		song : "Kissing Strangers (ft Nicki Minaj) (2017)"
+		song : "Kissing Strangers (ft Nicki Minaj) (2017)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -555,7 +558,7 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_5,
 		group : 'Black Keys',
 		song : "Lonely Boy (2011)"
 	},
@@ -838,7 +841,7 @@ let en_2010_gr = [
 		song : "The Bee (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_4,
+		pack : EN_2010_GR_PACK_5,
 		group : 'Avenged Sevenfold',
 		song : "Hail to the King (2013)"
 	},
@@ -858,12 +861,12 @@ let en_2010_gr = [
 		song : "Cure for the Enemy  (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_4,
+		pack : EN_2010_GR_PACK_5,
 		group : 'Black Veil Brides',
 		song : "In the End  (2012)"
 	},
 	{
-		pack : EN_2010_GR_PACK_4,
+		pack : EN_2010_GR_PACK_5,
 		group : 'Blind Channel',
 		song : "Wolfpack  (2018)"
 	},
@@ -898,7 +901,7 @@ let en_2010_gr = [
 		song : "Apocalypse (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : 'Deftones',
 		song : "Rosemary (2012)"
 	},
@@ -973,7 +976,7 @@ let en_2010_gr = [
 		song : "Sing (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_5,
 		group : 'My Darkest Days',
 		song : "Still Worth Fighting For (2010)"
 	},
@@ -1038,19 +1041,104 @@ let en_2010_gr = [
 		song : "Iron (2011)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_5,
 		group : 'X Ambassadors',
 		song : "Renegades (2015)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_5,
 		group : "Plain White T's",
 		song : "Map of the World (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_5,
 		group : "Two Door Cinema Club",
 		song : "Undercover Martyn (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Audiosoulz",
+		song : "Dancefloor (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Baby Alice",
+		song : "Piña Colada Boy (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Capital Cities",
+		song : "Safe and Sound (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Echosmith",
+		song : "Over My Head (2018)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Fun.",
+		song : "We Are Young (ft Janelle Monáe) (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Garfunkel and Oates",
+		song : "You, Me and Steve (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Kongos",
+		song : "Come With Me Now (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "MAGIC!",
+		song : "Rude (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Motionless In White",
+		song : "Another Life (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Nico & Vinz",
+		song : "Am I Wrong (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Of Monsters and Men",
+		song : "Six Weeks (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Red Velvet",
+		song : "Psycho (2019)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Röyksopp",
+		song : "Here She Comes Again (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Shouse",
+		song : "Love Tonight (2017)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Years & Years",
+		song : "King (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Yellow Claw",
+		song : "Shotgun (ft Rochelle) (2013)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Yolanda Be Cool",
+		song : "We No Speak Americano (ft DCUP) (2010)"
 	}
 ];
 
@@ -1058,6 +1146,7 @@ let en_2010_gr_1 =	en_2010_gr.filter(item => item.pack == 1);
 let en_2010_gr_2 =	en_2010_gr.filter(item => item.pack == 2);
 let en_2010_gr_3 =	en_2010_gr.filter(item => item.pack == 3);
 let en_2010_gr_4 =	en_2010_gr.filter(item => item.pack == 4);
+let en_2010_gr_5 =	en_2010_gr.filter(item => item.pack == 5);
 
 let music = [
 	{
@@ -1081,6 +1170,10 @@ let music = [
 				{
 					arr: en_2010_gr_3,
 					name: 'EN 2010s Groups: K-Pop',
+				},
+				{
+					arr: en_2010_gr_5,
+					name: 'EN 2010s Groups: One Hit Wonders',
 				}
 			]
 	}
