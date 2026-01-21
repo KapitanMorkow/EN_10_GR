@@ -1139,6 +1139,11 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_5,
 		group : "Yolanda Be Cool",
 		song : "We No Speak Americano (ft DCUP) (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Duck Sauce",
+		song : "Barbra Streisand (2010)"
 	}
 ];
 
