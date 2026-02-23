@@ -891,7 +891,7 @@ let en_2010_gr = [
 		song : "Fun (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_4,
+		pack : EN_2010_GR_PACK_2,
 		group : 'Blue October',
 		song : "I Hope You're Happy (2018)"
 	},
@@ -1144,6 +1144,21 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_5,
 		group : "Duck Sauce",
 		song : "Barbra Streisand (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Coldplay",
+		song : "Hymn Of The Weekend (ft Beyonce) (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Coldplay",
+		song : "A Sky Full of Stars (ft Avicii) (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Coldplay",
+		song : "Adventure of a Lifetime (2015)"
 	}
 ];
 
@@ -1192,6 +1207,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -1530,6 +1546,15 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
+	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
