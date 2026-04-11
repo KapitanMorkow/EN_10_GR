@@ -1176,20 +1176,20 @@ let music = [
 		type: 'gr',
 		packs: [
 				{
-					arr: en_2010_gr_2,
-					name: 'EN 2010s Groups: Soft Rock',
-				},
-				{
-					arr: en_2010_gr_4,
-					name: 'EN 2010s Groups: Hard Rock',
-				},
-				{
 					arr: en_2010_gr_1,
 					name: 'EN 2010s Groups: Pop',
 				},
 				{
 					arr: en_2010_gr_3,
 					name: 'EN 2010s Groups: K-Pop',
+				},
+				{
+					arr: en_2010_gr_2,
+					name: 'EN 2010s Groups: Soft Rock',
+				},
+				{
+					arr: en_2010_gr_4,
+					name: 'EN 2010s Groups: Hard Rock',
 				},
 				{
 					arr: en_2010_gr_5,
