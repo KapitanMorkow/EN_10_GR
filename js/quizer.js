@@ -355,7 +355,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'LMFAO',
-		song : "Party Rock Anthem (ft Lauren Bennett & GoonRock) (2011)"
+		song : "Party Rock Anthem (ft Lauren Bennett & GoonRock) (2011)",
+		ignore : true
 	},			
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -390,32 +391,36 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'OneRepublic',
-		song : "If I Loose Myself"
+		song : "If I Loose Myself (2013)"
 	},	
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'OneRepublic',
-		song : "Counting Stars"
+		song : "Counting Stars",
+		ignore : true
 	},	
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'OneRepublic',
-		song : "Something I Need"
+		song : "Something I Need (2013)"
 	},		
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'Imagine Dragons',
-		song : "Believer"
+		song : "Believer",
+		ignore : true
 	},	
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'Imagine Dragons',
-		song : "Demons"
+		song : "Demons",
+		ignore : true
 	},	
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'Imagine Dragons',
-		song : "Thunder"
+		song : "Thunder",
+		ignore : true
 	},	
 	{
 		pack : EN_2010_GR_PACK_4,
@@ -425,8 +430,7 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
-		song : "Kingslayer (ft Babymetal)",
-		year : 2020,
+		song : "Kingslayer (ft Babymetal) (2020)"
 		ignore : true
 	},	
 	{
@@ -455,12 +459,14 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'LMFAO',
-		song : "Sexy and I Know It (2011)"
+		song : "Sexy and I Know It (2011)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'LMFAO',
-		song : "Sorry for Party Rocking (2012)"
+		song : "Sorry for Party Rocking (2012)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -512,17 +518,20 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Fall Out Boy',
-		song : "Centuries (2014)"
+		song : "Centuries (2014)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Fall Out Boy',
-		song : "My Songs Know What You Did in the Dark (Light Em Up) (2013)"
+		song : "My Songs Know What You Did in the Dark (Light Em Up) (2013)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Fall Out Boy',
-		song : "Immortals (2014)"
+		song : "Immortals (2014)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -593,7 +602,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Pendulum',
-		song : "Witchcraft (2010)"
+		song : "Witchcraft (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -613,17 +623,20 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'Maroon 5',
-		song : "Moves Like Jagger (ft Christina Aguilera) (2011)"
+		song : "Moves Like Jagger (ft Christina Aguilera) (2011)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'Maroon 5',
-		song : "Girls Like You (ft Cardi B) (2018)"
+		song : "Girls Like You (ft Cardi B) (2018)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'Maroon 5',
-		song : "Sugar (2015)"
+		song : "Sugar (2015)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
@@ -778,14 +791,15 @@ let en_2010_gr = [
 		song : "Wave (2019)"
 	},
 	{
-		pack : EN_2010_GR_PACK_1,
+		pack : EN_2010_GR_PACK_5,
 		group : 'AJR',
 		song : "Weak (2016)"
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'AJR',
-		song : "Burn the House Down (2018)"
+		song : "Burn the House Down (2018)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -821,7 +835,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_1,
 		group : 'AJR',
-		song : "Let the Games Begin (2015)"
+		song : "Let the Games Begin (2015)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -878,17 +893,20 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Pendulum',
-		song : "Crush (2011)"
+		song : "Crush (2011)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Pendulum',
-		song : "Encoder (2010)"
+		song : "Encoder (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Blondie',
-		song : "Fun (2017)"
+		song : "Fun (2017)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -928,7 +946,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Franz Ferdinand',
-		song : "Love Illuminator (2013)"
+		song : "Love Illuminator (2013)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_2,
@@ -941,7 +960,7 @@ let en_2010_gr = [
 		song : "Cardiology (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_4,
+		pack : EN_2010_GR_PACK_5,
 		group : 'I Prevail',
 		song : "Gasoline (2019)"
 	},
@@ -1031,7 +1050,7 @@ let en_2010_gr = [
 		song : "Let It Burn (2016)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_5,
 		group : 'Walk the Moon',
 		song : "Shut Up and Dance (2014)"
 	},
