@@ -374,17 +374,17 @@ let en_2010_gr = [
 		song : "Story of My Life"
 	},	
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Twenty One Pilots',
 		song : "Ode To Sleep"
 	},	
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Twenty One Pilots',
 		song : "Stressed Out"
 	},	
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Twenty One Pilots',
 		song : "Heathens"
 	},	
@@ -534,18 +534,18 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Arctic Monkeys',
 		song : "Do I Wanna Know? (2013)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Arctic Monkeys',
 		song : "Why'd You Only Call Me When You're High? (2013)",
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Arctic Monkeys',
 		song : "R U Mine? (2012)"
 	},
@@ -606,17 +606,17 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Panic! at the Disco',
 		song : "High Hopes (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Panic! at the Disco',
 		song : "This Is Gospel (2013)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Panic! at the Disco',
 		song : "Hallelujah (2015)"
 	},
@@ -818,7 +818,7 @@ let en_2010_gr = [
 		song : "Touchin On My (2011)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : '3 Doors Down',
 		song : "Heaven (2011)"
 	},
@@ -861,17 +861,17 @@ let en_2010_gr = [
 		song : "Hail to the King (2013)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'AWOLNATION',
 		song : "Miracle Man (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'AWOLNATION',
 		song : "Sail (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Billy Talent',
 		song : "Cure for the Enemy  (2012)"
 	},
@@ -886,7 +886,7 @@ let en_2010_gr = [
 		song : "Wolfpack  (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_4,
 		group : "Theory of a Deadman",
 		song : 'Out of My Head (2011)'
 	},
@@ -909,12 +909,12 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Blue October',
 		song : "I Hope You're Happy (2018)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Cigarettes After Sex',
 		song : "Apocalypse (2017)"
 	},
@@ -929,7 +929,7 @@ let en_2010_gr = [
 		song : "The Sound of Silence (2015)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Electric Callboy',
 		song : "2 Fat 2 Furious (2015)"
 	},
@@ -950,12 +950,12 @@ let en_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Good Charlotte',
 		song : "Awful Things (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Good Charlotte',
 		song : "Cardiology (2010)"
 	},
@@ -965,12 +965,12 @@ let en_2010_gr = [
 		song : "Gasoline (2019)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Kasabian',
 		song : "Re-Wired (2011)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Kings of Leon',
 		song : "Waste a Moment (2016)"
 	},
@@ -985,12 +985,12 @@ let en_2010_gr = [
 		song : "Rotting In Vain (2016)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'My Chemical Romance',
 		song : "Na Na Na (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'My Chemical Romance',
 		song : "Sing (2010)"
 	},
@@ -1000,17 +1000,17 @@ let en_2010_gr = [
 		song : "Still Worth Fighting For (2010)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'OOMPH!',
 		song : "Kein Liebeslied (2019)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Portugal. The Man',
 		song : "Feel It Still (2017)"
 	},
 	{
-		pack : EN_2010_GR_PACK_2,
+		pack : EN_2010_GR_PACK_1,
 		group : 'Portugal. The Man',
 		song : "Live in the Moment (2017)"
 	},
