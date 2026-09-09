@@ -430,7 +430,7 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_2,
 		group : 'Bring Me the Horizon',
-		song : "Kingslayer (ft Babymetal) (2020)"
+		song : "Kingslayer (ft Babymetal) (2020)",
 		ignore : true
 	},	
 	{
