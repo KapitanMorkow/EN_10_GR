@@ -1218,12 +1218,8 @@ let music = [
 					name: 'EN 2010s Groups: K-Pop',
 				},
 				{
-					arr: en_2010_gr_2,
-					name: 'EN 2010s Groups: Soft Rock',
-				},
-				{
 					arr: en_2010_gr_4,
-					name: 'EN 2010s Groups: Hard Rock',
+					name: 'EN 2010s Groups: Rock',
 				},
 				{
 					arr: en_2010_gr_5,
