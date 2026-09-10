@@ -1178,6 +1178,21 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : "Coldplay",
 		song : "Adventure of a Lifetime (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Fifth Harmony",
+		song : "Work from Home (ft Ty Dolla $ign) (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Fifth Harmony",
+		song : "Worth It (ft Kid Ink) (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Fifth Harmony",
+		song : "That's My Girl (2016)"
 	}
 ];
 
