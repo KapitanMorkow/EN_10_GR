@@ -1193,6 +1193,26 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : "Fifth Harmony",
 		song : "That's My Girl (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Little Mix",
+		song : "Black Magic (2015)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Little Mix",
+		song : "Shout Out to My Ex (2016)"
+	},
+	{
+		pack : EN_2010_GR_PACK_1,
+		group : "Little Mix",
+		song : "Wings (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Scissor Sisters",
+		song : "I Don't Feel Like Dancin' (2006)"
 	}
 ];
 
