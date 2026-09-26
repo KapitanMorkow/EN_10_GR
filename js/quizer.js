@@ -1127,7 +1127,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_5,
 		group : "Of Monsters and Men",
-		song : "Six Weeks (2011)"
+		song : "Six Weeks (2011)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_5,
@@ -1213,6 +1214,11 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_5,
 		group : "Scissor Sisters",
 		song : "I Don't Feel Like Dancin' (2006)"
+	},
+	{
+		pack : EN_2010_GR_PACK_5,
+		group : "Of Monsters and Men",
+		song : "Little Talks (2011)"
 	}
 ];
 
