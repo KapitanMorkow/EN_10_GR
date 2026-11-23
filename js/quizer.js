@@ -1225,6 +1225,11 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_4,
 		group : 'Five Finger Death Punch',
 		song : "Bad Company (2010)"
+	},
+	{
+		pack : EN_2010_GR_PACK_4,
+		group : 'Five Finger Death Punch',
+		song : "Wrong Side of Heaven (2014)"
 	}
 ];
 
