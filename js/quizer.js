@@ -1230,6 +1230,11 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_4,
 		group : 'Five Finger Death Punch',
 		song : "Wrong Side of Heaven (2014)"
+	},
+	{
+		pack : EN_2010_GR_PACK_4,
+		group : 'Thousand Foot Krutch',
+		song : "War of Change (2012)"
 	}
 ];
 
