@@ -936,7 +936,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Five Finger Death Punch',
-		song : "Far from Home (2010)"
+		song : "Far from Home (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
@@ -1219,6 +1220,11 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_5,
 		group : "Of Monsters and Men",
 		song : "Little Talks (2011)"
+	},
+	{
+		pack : EN_2010_GR_PACK_4,
+		group : 'Five Finger Death Punch',
+		song : "Bad Company (2010)"
 	}
 ];
 
