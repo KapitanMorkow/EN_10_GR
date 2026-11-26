@@ -641,32 +641,38 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Hollywood Undead',
-		song : "Day of the Dead (2014)"
+		song : "Day of the Dead (2014)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Hollywood Undead',
-		song : "We Are (2012)"
+		song : "We Are (2012)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Hollywood Undead',
-		song : "Hear Me Now (2010)"
+		song : "Hear Me Now (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Godsmack',
-		song : "Bulletproof (2018)"
+		song : "Bulletproof (2018)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Godsmack',
-		song : "When Legends Rise (2018)"
+		song : "When Legends Rise (2018)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Godsmack',
-		song : "Cryin' Like a Bitch (2010)"
+		song : "Cryin' Like a Bitch (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_1,
@@ -853,7 +859,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Amorphis',
-		song : "The Bee (2018)"
+		song : "The Bee (2018)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_5,
@@ -888,7 +895,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : "Theory of a Deadman",
-		song : 'Out of My Head (2011)'
+		song : 'Out of My Head (2011)',
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_4,
@@ -1048,7 +1056,8 @@ let en_2010_gr = [
 	{
 		pack : EN_2010_GR_PACK_4,
 		group : 'Volbeat',
-		song : "Let It Burn (2016)"
+		song : "Let It Burn (2016)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_5,
@@ -1210,12 +1219,6 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_1,
 		group : "Little Mix",
 		song : "Wings (2012)"
-	},
-	{
-		pack : EN_2010_GR_PACK_5,
-		group : "Scissor Sisters",
-		song : "I Don't Feel Like Dancin' (2006)",
-		ignore : true
 	},
 	{
 		pack : EN_2010_GR_PACK_5,
