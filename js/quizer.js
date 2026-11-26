@@ -1244,6 +1244,11 @@ let en_2010_gr = [
 		pack : EN_2010_GR_PACK_4,
 		group : 'Halestorm',
 		song : "I Miss the Misery (2012)"
+	},
+	{
+		pack : EN_2010_GR_PACK_4,
+		group : 'Nothing but Thieves',
+		song : "Sorry (2017)"
 	}
 ];
 
